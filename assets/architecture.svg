@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="430" viewBox="0 0 960 430"><rect width="960" height="430" fill="#fff"/><g font-family="Arial, sans-serif" fill="#172029">
+<text x="32" y="38" font-size="24" font-weight="bold">Frequency-selective mechanical memory</text><text x="32" y="61" font-size="13" fill="#536271">Functional concept | no powered components | prototype not built</text>
+<rect x="32" y="90" width="90" height="43" rx="4" fill="#f3f5f7"/><text x="45" y="110" font-size="20" font-weight="bold">20 Hz</text><text x="45" y="125" font-size="10">channel 1</text>
+<rect x="146" y="100" width="17" height="26" fill="#445260"/><path d="M163 113 H302.96043150391824" stroke="#0e3d8a" stroke-width="5"/><rect x="293.96043150391824" y="101" width="18" height="24" rx="2" fill="#c5a46e" stroke="#77664c"/><path d="M315.96043150391824 113 H355" stroke="#64748b" stroke-dasharray="4 4" fill="none"/>
+<rect x="359" y="95" width="104" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="411.0" y="117" text-anchor="middle" font-size="12">Gap / pawl</text>
+<rect x="490" y="95" width="157" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="568.5" y="117" text-anchor="middle" font-size="12">Leaky accumulator</text>
+<rect x="676" y="95" width="116" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="734.0" y="117" text-anchor="middle" font-size="12">Trip / latch</text>
+<path d="M463 113 H484 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<path d="M647 113 H668 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<path d="M792 113 H813 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<rect x="819" y="95" width="109" height="36" rx="4" fill="#e8f3eb" stroke="#228b55"/><text x="873" y="117" text-anchor="middle" font-size="12">Flag / reset</text>
+<rect x="32" y="157" width="90" height="43" rx="4" fill="#f3f5f7"/><text x="45" y="177" font-size="20" font-weight="bold">25 Hz</text><text x="45" y="192" font-size="10">channel 2</text>
+<rect x="146" y="167" width="17" height="26" fill="#445260"/><path d="M163 180 H283.7985297498469" stroke="#0e3d8a" stroke-width="5"/><rect x="274.7985297498469" y="168" width="18" height="24" rx="2" fill="#c5a46e" stroke="#77664c"/><path d="M296.7985297498469 180 H355" stroke="#64748b" stroke-dasharray="4 4" fill="none"/>
+<rect x="359" y="162" width="104" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="411.0" y="184" text-anchor="middle" font-size="12">Gap / pawl</text>
+<rect x="490" y="162" width="157" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="568.5" y="184" text-anchor="middle" font-size="12">Leaky accumulator</text>
+<rect x="676" y="162" width="116" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="734.0" y="184" text-anchor="middle" font-size="12">Trip / latch</text>
+<path d="M463 180 H484 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<path d="M647 180 H668 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<path d="M792 180 H813 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<rect x="819" y="162" width="109" height="36" rx="4" fill="#e8f3eb" stroke="#228b55"/><text x="873" y="184" text-anchor="middle" font-size="12">Flag / reset</text>
+<rect x="32" y="224" width="90" height="43" rx="4" fill="#f3f5f7"/><text x="45" y="244" font-size="20" font-weight="bold">40 Hz</text><text x="45" y="259" font-size="10">channel 3</text>
+<rect x="146" y="234" width="17" height="26" fill="#445260"/><path d="M163 247 H251.53297119330625" stroke="#0e3d8a" stroke-width="5"/><rect x="242.53297119330625" y="235" width="18" height="24" rx="2" fill="#c5a46e" stroke="#77664c"/><path d="M264.53297119330625 247 H355" stroke="#64748b" stroke-dasharray="4 4" fill="none"/>
+<rect x="359" y="229" width="104" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="411.0" y="251" text-anchor="middle" font-size="12">Gap / pawl</text>
+<rect x="490" y="229" width="157" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="568.5" y="251" text-anchor="middle" font-size="12">Leaky accumulator</text>
+<rect x="676" y="229" width="116" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="734.0" y="251" text-anchor="middle" font-size="12">Trip / latch</text>
+<path d="M463 247 H484 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<path d="M647 247 H668 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<path d="M792 247 H813 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<rect x="819" y="229" width="109" height="36" rx="4" fill="#e8f3eb" stroke="#228b55"/><text x="873" y="251" text-anchor="middle" font-size="12">Flag / reset</text>
+<rect x="32" y="291" width="90" height="43" rx="4" fill="#f3f5f7"/><text x="45" y="311" font-size="20" font-weight="bold">50 Hz</text><text x="45" y="326" font-size="10">channel 4</text>
+<rect x="146" y="301" width="17" height="26" fill="#445260"/><path d="M163 314 H239.37023079944612" stroke="#0e3d8a" stroke-width="5"/><rect x="230.37023079944612" y="302" width="18" height="24" rx="2" fill="#c5a46e" stroke="#77664c"/><path d="M252.37023079944612 314 H355" stroke="#64748b" stroke-dasharray="4 4" fill="none"/>
+<rect x="359" y="296" width="104" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="411.0" y="318" text-anchor="middle" font-size="12">Gap / pawl</text>
+<rect x="490" y="296" width="157" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="568.5" y="318" text-anchor="middle" font-size="12">Leaky accumulator</text>
+<rect x="676" y="296" width="116" height="36" rx="4" fill="#eef2f6" stroke="#9eabb9"/><text x="734.0" y="318" text-anchor="middle" font-size="12">Trip / latch</text>
+<path d="M463 314 H484 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<path d="M647 314 H668 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<path d="M792 314 H813 l-5 -4 m5 4 l-5 4" fill="none" stroke="#0e3d8a" stroke-width="1.5"/>
+<rect x="819" y="296" width="109" height="36" rx="4" fill="#e8f3eb" stroke="#228b55"/><text x="873" y="318" text-anchor="middle" font-size="12">Flag / reset</text>
+<path d="M146 95 V330" stroke="#445260" stroke-width="4"/><text x="32" y="393" font-size="13" fill="#536271">Rigid base input → tuned beam → threshold → ideal leaky accumulation → independent persistent flag</text></g></svg>

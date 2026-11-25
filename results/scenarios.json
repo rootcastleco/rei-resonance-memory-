@@ -1,0 +1,42 @@
+{
+  "sustained": {
+    "peak_mm": 0.9701888201485338,
+    "events": 73,
+    "trip_s": 1.3153333333333332,
+    "latched": true,
+    "final_accumulator": 24.015763104393553,
+    "steps": 18000
+  },
+  "short_burst": {
+    "peak_mm": 0.7098710020451584,
+    "events": 0,
+    "trip_s": null,
+    "latched": false,
+    "final_accumulator": 0.0,
+    "steps": 18000
+  },
+  "crossing_burst": {
+    "peak_mm": 0.9652423107324718,
+    "events": 8,
+    "trip_s": null,
+    "latched": false,
+    "final_accumulator": 0.5165728428600134,
+    "steps": 18000
+  },
+  "off_band": {
+    "peak_mm": 0.21145877359411946,
+    "events": 0,
+    "trip_s": null,
+    "latched": false,
+    "final_accumulator": 0.0,
+    "steps": 28800
+  },
+  "zero": {
+    "peak_mm": 0.0,
+    "events": 0,
+    "trip_s": null,
+    "latched": false,
+    "final_accumulator": 0.0,
+    "steps": 18000
+  }
+}

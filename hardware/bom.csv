@@ -1,0 +1,9 @@
+id,component,qty,requirement,historical_reference,current_supplier_status
+RM01,Spring strip,1,"12 mm x 0.8 mm; grade and fatigue data TBD",IS p513,NOT VERIFIED
+RM02,Captive tip mass,1,"40 g total including retention hardware; adjustable",,NOT VERIFIED
+RM03,Root clamp and base,1,"125 x 54 mm envelope; stiffness and retention TBD",,NOT VERIFIED
+RM04,Adjustable threshold,1,"Nominal 0.715 mm at 25 Hz; low contact work",,NOT VERIFIED
+RM05,Compliant input pawl,1,"Positive crossing input; return must disengage",MS p209,NOT VERIFIED
+RM06,Leaky accumulator,1,"Return spring plus controlled dissipation; measure work and decay",MC118 p1201; direct rotary damper rejected,NOT VERIFIED
+RM07,Bistable flag and reset,1,"Independent latch; visible retention; deliberate reset",,NOT VERIFIED
+RM08,Guard and captive stops,1,"Contain all fragments; clearance and strength TBD",,NOT VERIFIED
